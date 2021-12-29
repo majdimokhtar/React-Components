@@ -1,0 +1,22 @@
+h1 {
+    color: black;
+}
+
+.image{display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+margin-top: 80px;
+border-radius: 8px}
+
+.Adress{
+    text-align: center;
+}
+.fullName{
+    text-align: center;
+
+}
+
+.navbar{position: fixed;
+    top: 0;
+    width: 100%;}
